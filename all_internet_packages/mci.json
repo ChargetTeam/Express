@@ -1,0 +1,1016 @@
+{
+  "data": [
+    {
+      "type": "704160",
+      "cost": 280060,
+      "description": "بسته اينترنت آلفا+ سي روزه 3 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "704166",
+      "cost": 913880,
+      "description": "بسته اينترنت آلفا+ 120 روزه 15 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 4
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "504028",
+      "cost": 154770,
+      "description": "بسته اينترنت 30روزه 1گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502200",
+      "cost": 23540,
+      "description": "بسته اينترنت 1روزه 60مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 60
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "502202",
+      "cost": 53020,
+      "description": "بسته اينترنت 1روزه 250مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 250
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502178",
+      "cost": 86900,
+      "description": "بسته اينترنت 1روزه 750مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502204",
+      "cost": 64790,
+      "description": "بسته اينترنت 7روزه 200مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502179",
+      "cost": 94270,
+      "description": "بسته اينترنت 1روزه 1گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502206",
+      "cost": 103180,
+      "description": "بسته اينترنت 7روزه 500مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502182",
+      "cost": 191620,
+      "description": "بسته اينترنت 7روزه 2.5 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "706180",
+      "cost": 306900,
+      "description": " بسته مکالمه انارستان  30 روزه500 دقيقه درون شبکه و ثابت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3c77bf37a71ed10cbadf",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 500
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:49:27.617Z",
+        "updated_at": "2021-10-31T06:49:27.617Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "706179",
+      "cost": 163900,
+      "description": " بسته مکالمه انارستان  30 روزه250 دقيقه درون شبکه و ثابت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3c48b2c98c1da7818644",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 250
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:48:40.380Z",
+        "updated_at": "2021-10-31T06:48:40.380Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "706177",
+      "cost": 75900,
+      "description": " بسته مکالمه انارستان  30 روزه100 دقيقه درون شبکه و ثابت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "706176",
+      "cost": 59400,
+      "description": " بسته مکالمه انارستان  30 روزه70 دقيقه درون شبکه و ثابت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3d4a6e7ff11cf66be123",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 70
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:52:58.337Z",
+        "updated_at": "2021-10-31T06:52:58.337Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "706178",
+      "cost": 103400,
+      "description": " بسته مکالمه انارستان  30 روزه150 دقيقه درون شبکه و ثابت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3bfba39c511dcdca093b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 150
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:47:23.144Z",
+        "updated_at": "2021-10-31T06:47:23.144Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "1001060",
+      "cost": 153230,
+      "description": "بسته اينترنت ويژه مشترکين جديد، 30 روزه 2 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "704161",
+      "cost": 313940,
+      "description": "بسته اينترنت آلفا+ سي روزه 4 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502252",
+      "cost": 145860,
+      "description": "بسته اينترنت 1روزه 3گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "1001061",
+      "cost": 182710,
+      "description": "بسته اينترنت ويژه مشترکين جديد، 30 روزه 3 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502205",
+      "cost": 81070,
+      "description": "بسته اينترنت 7روزه 300مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502181",
+      "cost": 160600,
+      "description": "بسته اينترنت 7روزه 1.5گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502162",
+      "cost": 407000,
+      "description": "بسته اينترنت 30روزه 6گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502180",
+      "cost": 122320,
+      "description": "بسته اينترنت 7روزه 750 مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502203",
+      "cost": 72160,
+      "description": "بسته اينترنت 1روزه 500مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502201",
+      "cost": 39710,
+      "description": "بسته اينترنت 1روزه 150مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "704163",
+      "cost": 418000,
+      "description": "بسته اينترنت آلفا+ سي روزه 7 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "704164",
+      "cost": 678040,
+      "description": "بسته اينترنت آلفا+ 60 روزه 12 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 12
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "1001063",
+      "cost": 271150,
+      "description": "بسته اينترنت ويژه مشترکين جديد، 30 روزه 7 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "1001062",
+      "cost": 226930,
+      "description": "بسته اينترنت ويژه مشترکين جديد، 30 روزه 5 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502257",
+      "cost": 287430,
+      "description": "بسته اينترنت 7روزه 6گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "700040",
+      "cost": 147400,
+      "description": "بسته اينترنت آلفا+ يک ماهه 12 گيگ 6 تا 12 ظهر",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 12
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502244",
+      "cost": 123750,
+      "description": "بسته اينترنت 1روزه 2گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502249",
+      "cost": 235840,
+      "description": "بسته اينترنت 7روزه 4گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "502261",
+      "cost": 206360,
+      "description": "بسته اينترنت 30روزه 2گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "704162",
+      "cost": 347820,
+      "description": "بسته اينترنت آلفا+ سي روزه 5 گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "709062",
+      "cost": 110000,
+      "description": "بسته اينترنت انارستان 30روزه 1گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709064",
+      "cost": 189200,
+      "description": "بسته اينترنت انارستان 30روزه 4گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709065",
+      "cost": 248600,
+      "description": "بسته اينترنت انارستان 30روزه 5گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709066",
+      "cost": 262900,
+      "description": "بسته اينترنت انارستان 30روزه 7گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709067",
+      "cost": 323400,
+      "description": "بسته اينترنت انارستان 90روزه 6گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709068",
+      "cost": 426800,
+      "description": "بسته اينترنت انارستان 90روزه 12گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 12
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709070",
+      "cost": 618200,
+      "description": "بسته اينترنت انارستان 180روزه 15گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709060",
+      "cost": 88000,
+      "description": "بسته اينترنت انارستان 7روزه 750مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709072",
+      "cost": 958100,
+      "description": "بسته اينترنت انارستان 365روزه 30گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "YEAR",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709063",
+      "cost": 145200,
+      "description": "بسته اينترنت انارستان 30روزه 2گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709061",
+      "cost": 101200,
+      "description": "بسته اينترنت انارستان 7روزه 1.5گيگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "709059",
+      "cost": 66000,
+      "description": "بسته اينترنت انارستان 7روزه 500مگابايت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    }
+  ]
+}

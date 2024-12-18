@@ -1,0 +1,3236 @@
+{
+  "data": [
+    {
+      "type": "PO2106HBH",
+      "cost": 530640,
+      "description": "بسته سیم کارت اعتباری - 2 ماهه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1994VTH",
+      "cost": 418000,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2104HBH",
+      "cost": 530640,
+      "description": "بسته سیم کارت دایمی - 2 ماهه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2039OEB",
+      "cost": 272690,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2084HBH",
+      "cost": 103180,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2025XOI",
+      "cost": 169510,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2079HBH",
+      "cost": 78122,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2080HBH",
+      "cost": 98758,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2016OEB",
+      "cost": 64856,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 250 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 250
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2018XOI",
+      "cost": 132660,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2081HBH",
+      "cost": 132660,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2027OEB",
+      "cost": 162140,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2023XOI",
+      "cost": 213730,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2040VTH",
+      "cost": 243210,
+      "description": "بسته سیم کارت دایمی - 15 روزه - 3.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2095HBH",
+      "cost": 103180,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1987XOI",
+      "cost": 132660,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2105HBH",
+      "cost": 913880,
+      "description": "بسته سیم کارت دایمی - 4ماهه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 4
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1964XOI",
+      "cost": 243210,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 3.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2104HBH",
+      "cost": 530640,
+      "description": "بسته سیم کارت دایمی - 2 ماهه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2015VTH",
+      "cost": 51590,
+      "description": "بسته سیم کارت دایمی - 3 روزه - 150 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1985OEB",
+      "cost": 169510,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1966OEB",
+      "cost": 272690,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1983VTH",
+      "cost": 213730,
+      "description": "بسته سیم کارت اعتباری - 15 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2062VTH",
+      "cost": 162140,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2106HBH",
+      "cost": 530640,
+      "description": "بسته سیم کارت اعتباری - 2 ماهه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1962VTH",
+      "cost": 132660,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1954OEB",
+      "cost": 51590,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 150 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1956VTH",
+      "cost": 64856,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 250 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 250
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1958OEB",
+      "cost": 78122,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1960OEB",
+      "cost": 98758,
+      "description": "بسته سیم کارت اعتباری - 3 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2200HBH",
+      "cost": 110550,
+      "description": "بسته سیم کارت دایمی - ماهانه - 7 گیگابایت(6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2211HBH",
+      "cost": 132660,
+      "description": "بسته سیم کارت دایمی - ماهانه - 30 گیگابایت (2تا7 صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2201HBH",
+      "cost": 132660,
+      "description": "بسته سیم کارت دایمی - ماهانه - 10 گیگابایت (6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2085HBH",
+      "cost": 407000,
+      "description": "بسته سیم کارت دایمی - ماهانه - 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2067OEB",
+      "cost": 347864,
+      "description": "بسته سیم کارت دایمی - ماهانه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2050VTH",
+      "cost": 418000,
+      "description": "بسته سیم کارت دایمی - ماهانه - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2046VTH",
+      "cost": 313962,
+      "description": "بسته سیم کارت دایمی - ماهانه - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2048OEB",
+      "cost": 154770,
+      "description": "بسته سیم کارت دایمی - ماهانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2198HBH",
+      "cost": 66330,
+      "description": "بسته سیم کارت دایمی - هفتگی - 4 گیگابایت(6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2197HBH",
+      "cost": 22110,
+      "description": "بسته سیم کارت دایمی - هفتگی - 2 گیگابایت (2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2199HBH",
+      "cost": 36850,
+      "description": "بسته سیم کارت دایمی - هفتگی - 5 گیگابایت(2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2049XOI",
+      "cost": 280060,
+      "description": "بسته سیم کارت دایمی - ماهانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2034OEB",
+      "cost": 265320,
+      "description": "بسته سیم کارت دایمی - هفتگی - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2052OEB",
+      "cost": 206360,
+      "description": "بسته سیم کارت دایمی - ماهانه - 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2083HBH",
+      "cost": 236500,
+      "description": "بسته سیم کارت دایمی - هفتگی - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2196HBH",
+      "cost": 7370,
+      "description": "بسته سیم کارت دایمی - روزانه  -  500 مگابایت(2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2082HBH",
+      "cost": 81070,
+      "description": "بسته سیم کارت دایمی - هفتگی - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2014XOI",
+      "cost": 138556,
+      "description": "بسته سیم کارت دایمی - روزانه  - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2024VTH",
+      "cost": 160666,
+      "description": "بسته سیم کارت دایمی - هفتگی - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2022OEB",
+      "cost": 122342,
+      "description": "بسته سیم کارت دایمی - هفتگی - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2030VTH",
+      "cost": 103180,
+      "description": "بسته سیم کارت دایمی - هفتگی - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2044XOI",
+      "cost": 64856,
+      "description": "بسته سیم کارت دایمی - هفتگی - 200 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2033OEB",
+      "cost": 191620,
+      "description": "بسته سیم کارت دایمی - هفتگی - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2012XOI",
+      "cost": 109076,
+      "description": "بسته سیم کارت دایمی - روزانه  - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2212HBH",
+      "cost": 132660,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 30 گیگابایت (2تا7 صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2107HBH",
+      "cost": 913880,
+      "description": "بسته سیم کارت اعتباری - 4ماهه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 4
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2010VTH",
+      "cost": 84018,
+      "description": "بسته سیم کارت دایمی - روزانه  - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2009VTH",
+      "cost": 66330,
+      "description": "بسته سیم کارت دایمی - روزانه  - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2006OEB",
+      "cost": 57486,
+      "description": "بسته سیم کارت دایمی - روزانه  - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2208HBH",
+      "cost": 132660,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 10 گیگابایت (6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2003VTH",
+      "cost": 32428,
+      "description": "بسته سیم کارت دایمی - روزانه  - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2004XOI",
+      "cost": 23584,
+      "description": "بسته سیم کارت دایمی - روزانه  - 60 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 60
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO2005OEB",
+      "cost": 47168,
+      "description": "بسته سیم کارت دایمی - روزانه  - 200 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1995VTH",
+      "cost": 280060,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2207HBH",
+      "cost": 110550,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 7 گیگابایت (6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2096HBH",
+      "cost": 407000,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1993XOI",
+      "cost": 347864,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1994VTH",
+      "cost": 418000,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1991VTH",
+      "cost": 313962,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2063VTH",
+      "cost": 154770,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1996XOI",
+      "cost": 206360,
+      "description": "بسته سیم کارت اعتباری - ماهانه - 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2204HBH",
+      "cost": 22110,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 2 گیگابایت (2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2205HBH",
+      "cost": 66330,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 4 گیگابایت (6صبح تا12ظهر)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2094HBH",
+      "cost": 236500,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1974XOI",
+      "cost": 191620,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2206HBH",
+      "cost": 36850,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 5 گیگابایت (2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1975VTH",
+      "cost": 265320,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1965OEB",
+      "cost": 103180,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1969OEB",
+      "cost": 160666,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2093HBH",
+      "cost": 81070,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1968XOI",
+      "cost": 122342,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2061OEB",
+      "cost": 64856,
+      "description": "بسته سیم کارت اعتباری - هفتگی - 200 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1950VTH",
+      "cost": 138556,
+      "description": "بسته سیم کارت اعتباری - روزانه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2203HBH",
+      "cost": 7370,
+      "description": "بسته سیم کارت اعتباری - روزانه -  500 مگابایت(2تا7صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1943VTH",
+      "cost": 47168,
+      "description": "بسته سیم کارت اعتباری - روزانه - 200 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1945OEB",
+      "cost": 57486,
+      "description": "بسته سیم کارت اعتباری - روزانه - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1948OEB",
+      "cost": 66330,
+      "description": "بسته سیم کارت اعتباری - روزانه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1951VTH",
+      "cost": 84018,
+      "description": "بسته سیم کارت اعتباری - روزانه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2059XOI",
+      "cost": 109076,
+      "description": "بسته سیم کارت اعتباری - روزانه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1941OEB",
+      "cost": 23584,
+      "description": "بسته سیم کارت اعتباری - روزانه - 60 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 60
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1942OEB",
+      "cost": 32428,
+      "description": "بسته سیم کارت اعتباری - روزانه - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO2635AAS",
+      "cost": 1188000,
+      "description": "مودم TD-LTE - نامحدود سرعت 2 مگابیت - 1 ماهه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "INFINITE",
+          "value": -1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2636AAS",
+      "cost": 1474000,
+      "description": "مودم TD-LTE - نامحدود سرعت 4 مگابیت- 1 ماهه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "INFINITE",
+          "value": -1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2654AAS",
+      "cost": 1771000,
+      "description": "مودم TD-LTE - نامحدود سرعت 8 مگابیت - 1 ماهه",
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2647AAS",
+      "cost": 2948000,
+      "description": "مودم TD-LTE - شش ماهه - 100 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2648AAS",
+      "cost": 3982000,
+      "description": "مودم TD-LTE - شش ماهه - 150 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2649AAS",
+      "cost": 6633000,
+      "description": "مودم TD-LTE - شش ماهه - 300 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2650AAS",
+      "cost": 10175000,
+      "description": "مودم TD-LTE - شش ماهه - 500 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2651AAS",
+      "cost": 5830000,
+      "description": "مودم TD-LTE - یکساله - 200 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "YEAR",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2653AAS",
+      "cost": 12826000,
+      "description": "مودم TD-LTE - یکساله - 600 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "YEAR",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 600
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2652AAS",
+      "cost": 9955000,
+      "description": "مودم TD-LTE - یکساله - 400 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "YEAR",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2645AAS",
+      "cost": 3245000,
+      "description": "مودم TD-LTE - سه ماهه - 120 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 120
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2646AAS",
+      "cost": 5676000,
+      "description": "مودم TD-LTE - سه ماهه - 240 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 240
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2644AAS",
+      "cost": 1892000,
+      "description": "مودم TD-LTE - سه ماهه - 60 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 60
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2634XGF",
+      "cost": 1771000,
+      "description": "مودم TD-LTE - ماهانه - 300 گیگابایت (2 تا 7 صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2639AAS",
+      "cost": 457600,
+      "description": "مودم TD-LTE - ماهانه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2640AAS",
+      "cost": 605000,
+      "description": "مودم TD-LTE - ماهانه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2641AAS",
+      "cost": 957000,
+      "description": "مودم TD-LTE - ماهانه - 30 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2643AAS",
+      "cost": 2013000,
+      "description": "مودم TD-LTE - ماهانه - 90 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 90
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2632XGF",
+      "cost": 737000,
+      "description": "مودم TD-LTE - ماهانه - 100 گیگابایتی (2 تا 7 صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2642AAS",
+      "cost": 1298000,
+      "description": "مودم TD-LTE - ماهانه - 50 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 50
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2633XGF",
+      "cost": 1254000,
+      "description": "مودم TD-LTE - ماهانه - 200 گیگابایت (2 تا 7 صبح)",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2638AAS",
+      "cost": 649000,
+      "description": "مودم TD-LTE - هفتگی - 14 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 14
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "PO2637AAS",
+      "cost": 368500,
+      "description": "مودم TD-LTE - هفتگی - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 3
+    },
+    {
+      "type": "85553",
+      "cost": 65780,
+      "description": "بسته سیم کارت دایمی - بسته مکالمه ماهانه - 100 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "85555",
+      "cost": 225720,
+      "description": "بسته سیم کارت دایمی - بسته مکالمه ماهانه - 400 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb34bc803f58ee6ac610d",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 400
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:42:51.963Z",
+        "updated_at": "2021-03-13T12:42:51.963Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "85554",
+      "cost": 121880,
+      "description": "بسته سیم کارت دایمی - بسته مکالمه ماهانه - 200 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb57ec803f58ee6ac6114",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 200
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:52:14.709Z",
+        "updated_at": "2021-03-13T12:52:14.709Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "85556",
+      "cost": 418000,
+      "description": "بسته سیم کارت دایمی - بسته مکالمه ماهانه - 800 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4d0c803f58ee6ac6112",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 800
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:49:20.484Z",
+        "updated_at": "2021-03-13T12:49:20.484Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "85549",
+      "cost": 583000,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 1000 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb48cc803f58ee6ac6110",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 1000
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:12.040Z",
+        "updated_at": "2021-03-13T12:48:12.040Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "85548",
+      "cost": 209000,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 320 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb421c803f58ee6ac610f",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 320
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:46:25.696Z",
+        "updated_at": "2021-03-13T12:46:25.696Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "85546",
+      "cost": 57640,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 80 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb3e1c803f58ee6ac610e",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 80
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:45:21.225Z",
+        "updated_at": "2021-03-13T12:45:21.225Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "85547",
+      "cost": 110000,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 160 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb541c803f58ee6ac6113",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 160
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:51:13.053Z",
+        "updated_at": "2021-03-13T12:51:13.053Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "85545",
+      "cost": 30800,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 40 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4491800cc8ed5f5b3e3",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 40
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:47:05.360Z",
+        "updated_at": "2021-03-13T12:47:05.360Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "85543",
+      "cost": 16500,
+      "description": "بسته سیم کارت اعتباری - بسته مکالمه ماهانه - 20 دقیقه ای داخل شبکه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb46c1800cc8ed5f5b3e4",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:47:40.905Z",
+        "updated_at": "2021-03-13T12:47:40.905Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3041PHC",
+      "cost": 4840000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 7 روزه 1.5 گیگابایت ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3043PHC",
+      "cost": 13200000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 7 روزه 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3042PHC",
+      "cost": 5830000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 7 روزه 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3039PHC",
+      "cost": 1870000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 14 روزه 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3040PHC",
+      "cost": 2640000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 7 روزه 600 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 600
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3033PHC",
+      "cost": 10340000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 14 روزه 4گیگابایت، 30 دقیقه مکالمه و 30 پیامک ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "out_network_conversation": {
+        "_id": "666ac86cd1609c63274c51bf",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-06-13T10:22:36.678Z",
+        "updated_at": "2024-06-13T10:22:36.678Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "666ac87830fe12ef03669fe0",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-06-13T10:22:48.451Z",
+        "updated_at": "2024-06-13T10:22:48.451Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3036PHC",
+      "cost": 4840000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 7 روزه 1.5 گیگابایت ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3037PHC",
+      "cost": 5830000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 7 روزه 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3038PHC",
+      "cost": 13200000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 7 روزه 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3035PHC",
+      "cost": 2640000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 7 روزه 600 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 600
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3032PHC",
+      "cost": 9900000,
+      "description": "بسته سیم کارت دایمی - رومینگ چین - تایلند - 14 روزه 90 دقیقه مکالمه و 90 پیامک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "out_network_conversation": {
+        "_id": "66db03408f659ce3bfd7f1d4",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 90
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-09-06T13:27:28.464Z",
+        "updated_at": "2024-09-06T13:27:28.464Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "66db035055b808e7b94f100a",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 90
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-09-06T13:27:44.201Z",
+        "updated_at": "2024-09-06T13:27:44.201Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO3034PHC",
+      "cost": 1870000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 14 روزه 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3030PHC",
+      "cost": 9900000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 14 روزه 90 دقیقه مکالمه و 90 پیامک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "out_network_conversation": {
+        "_id": "66db03408f659ce3bfd7f1d4",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 90
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-09-06T13:27:28.464Z",
+        "updated_at": "2024-09-06T13:27:28.464Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "66db035055b808e7b94f100a",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 90
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-09-06T13:27:44.201Z",
+        "updated_at": "2024-09-06T13:27:44.201Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO3031PHC",
+      "cost": 10340000,
+      "description": "بسته سیم کارت اعتباری - رومینگ چین - تایلند - 14 روزه 4گیگابایت، 30 دقیقه مکالمه و 30 پیامک ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "out_network_conversation": {
+        "_id": "666ac86cd1609c63274c51bf",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-06-13T10:22:36.678Z",
+        "updated_at": "2024-06-13T10:22:36.678Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "666ac87830fe12ef03669fe0",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-06-13T10:22:48.451Z",
+        "updated_at": "2024-06-13T10:22:48.451Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1875UUG",
+      "cost": 4950000,
+      "description": "بسته سیم کارت دایمی - رومینگ عراق -  7 روزه 2 گیگابایت و 20 دقیقه مکالمه و 20 پیامک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "out_network_conversation": {
+        "_id": "66b315befc45b94ab459a104",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-08-07T06:35:42.053Z",
+        "updated_at": "2024-08-07T06:35:42.053Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "66b315e8554b399fa17754d9",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-08-07T06:36:24.146Z",
+        "updated_at": "2024-08-07T06:36:24.146Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1870OCL",
+      "cost": 1320000,
+      "description": "بسته سیم کارت دایمی - رومینگ عراق - 7 روزه 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1871LIK",
+      "cost": 3190000,
+      "description": "بسته سیم کارت دایمی - رومینگ عراق - 7 روزه 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1873UUG",
+      "cost": 4950000,
+      "description": "بسته سیم کارت اعتباری - رومینگ عراق - 7 روزه 2 گیگابایت و 20 دقیقه مکالمه و 20 پیامک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "out_network_conversation": {
+        "_id": "66b315befc45b94ab459a104",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-08-07T06:35:42.053Z",
+        "updated_at": "2024-08-07T06:35:42.053Z",
+        "v": 0
+      },
+      "out_network_sms": {
+        "_id": "66b315e8554b399fa17754d9",
+        "category": {
+          "type": "OUT_NETWORK_SMS",
+          "sub_type": "COUNT",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-08-07T06:36:24.146Z",
+        "updated_at": "2024-08-07T06:36:24.146Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1867UUG",
+      "cost": 1320000,
+      "description": "بسته سیم کارت اعتباری - رومینگ عراق - 7 روزه 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1872OCL",
+      "cost": 6490000,
+      "description": "بسته سیم کارت دایمی - رومینگ عراق - 14 روزه 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "PO1869OCL",
+      "cost": 6490000,
+      "description": "بسته سیم کارت اعتباری - رومینگ عراق - 14 روزه 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "PO1868UUG",
+      "cost": 3190000,
+      "description": "بسته سیم کارت اعتباری - رومینگ عراق - 7 روزه 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    }
+  ]
+}

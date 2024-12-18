@@ -1,0 +1,1476 @@
+{
+  "data": [
+    {
+      "type": "402112002",
+      "cost": 98100,
+      "description": "اعتباری - بسته مکالمه - 150 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3bfba39c511dcdca093b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 150
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:47:23.144Z",
+        "updated_at": "2021-10-31T06:47:23.144Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112001",
+      "cost": 319000,
+      "description": "اعتباری - بسته مکالمه - 800 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4d0c803f58ee6ac6112",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 800
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:49:20.484Z",
+        "updated_at": "2021-03-13T12:49:20.484Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112003",
+      "cost": 209000,
+      "description": "اعتباری - بسته مکالمه - 500 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3c77bf37a71ed10cbadf",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 500
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:49:27.617Z",
+        "updated_at": "2021-10-31T06:49:27.617Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112019",
+      "cost": 599500,
+      "description": "اعتباری - رومینگ عراق - اینترنت 250 مگابایت 7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 250
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122017",
+      "cost": 599500,
+      "description": "دایمی - رومینگ عراق - اینترنت 250 مگابایت 7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 240
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122018",
+      "cost": 1090000,
+      "description": "دایمی - رومینگ عراق - اینترنت 500 مگابایت 7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122016",
+      "cost": 327000,
+      "description": "دایمی - رومینگ عراق - اینترنت 100مگابایت7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112018",
+      "cost": 327000,
+      "description": "اعتباری - رومینگ عراق - اینترنت 100مگابایت7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112020",
+      "cost": 1090000,
+      "description": "اعتباری - رومینگ عراق - اینترنت 500 مگابایت 7 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122001",
+      "cost": 319000,
+      "description": "دایمی - بسته مکالمه - 800 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cbad71800cc8ed5f5b3e6",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 10000
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T13:15:03.185Z",
+        "updated_at": "2021-03-13T13:15:03.185Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122002",
+      "cost": 98100,
+      "description": "دایمی - بسته مکالمه - 150 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3bfba39c511dcdca093b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 150
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:47:23.144Z",
+        "updated_at": "2021-10-31T06:47:23.144Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122003",
+      "cost": 209000,
+      "description": "دایمی - بسته مکالمه - 500 دقیقه تماس صوتی درون و برون شبکه  30 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "617e3c77bf37a71ed10cbadf",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 500
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-10-31T06:49:27.617Z",
+        "updated_at": "2021-10-31T06:49:27.617Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122100",
+      "cost": 161700,
+      "description": "دایمی - 15 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112109",
+      "cost": 161700,
+      "description": "اعتباری - 15 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112102",
+      "cost": 174900,
+      "description": "اعتباری - 3 روزه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122102",
+      "cost": 262900,
+      "description": "دایمی - 15 روزه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112100",
+      "cost": 48400,
+      "description": "اعتباری - 3 روزه - 150 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122101",
+      "cost": 234300,
+      "description": "دایمی - 15 روزه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112111",
+      "cost": 262900,
+      "description": "اعتباری - 15 روزه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112110",
+      "cost": 234300,
+      "description": "اعتباری - 15 روزه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112101",
+      "cost": 119900,
+      "description": "اعتباری - 3 روزه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "97122090",
+      "cost": 121101,
+      "description": "دایمی - بسته های خانواده دکا - دکا",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122144",
+      "cost": 584240,
+      "description": "دایمی - بسته های خانواده دکا - دکا بینهایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "97122091",
+      "cost": 151377,
+      "description": "دایمی - بسته های خانواده دکا - دکا گپ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "97112119",
+      "cost": 121101,
+      "description": "اعتباری - بسته های خانواده دکا - دکا",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112152",
+      "cost": 438180,
+      "description": "اعتباری - بسته های خانواده دکا - دکا تک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "97112120",
+      "cost": 151377,
+      "description": "اعتباری - بسته های خانواده دکا - دکا گپ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122143",
+      "cost": 438180,
+      "description": "دایمی - بسته های خانواده دکا - دکا تک",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112153",
+      "cost": 584240,
+      "description": "اعتباری - بسته های خانواده دکا - دکا بینهایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112095",
+      "cost": 28600,
+      "description": "اعتباری - روزانه - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112096",
+      "cost": 53900,
+      "description": "اعتباری - روزانه - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112097",
+      "cost": 68200,
+      "description": "اعتباری - روزانه - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112098",
+      "cost": 91300,
+      "description": "اعتباری - روزانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112099",
+      "cost": 139700,
+      "description": "اعتباری - روزانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122124",
+      "cost": 276860,
+      "description": "دایمی - حجم افزایشی - حجم افزایشی بسته اینترنت 5 گیگابایت ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112133",
+      "cost": 276860,
+      "description": "اعتباری - حجم افزایشی - حجم افزایشی بسته اینترنت 5 گیگابایت ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122104",
+      "cost": 145200,
+      "description": "دایمی - ماهانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122105",
+      "cost": 198000,
+      "description": "دایمی - ماهانه - 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122106",
+      "cost": 262900,
+      "description": "دایمی - ماهانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122107",
+      "cost": 292600,
+      "description": "دایمی - ماهانه - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122108",
+      "cost": 322300,
+      "description": "دایمی - ماهانه - 5گیگابایت + 5 گیگابایت هدیه شبانه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122109",
+      "cost": 381700,
+      "description": "دایمی - ماهانه - 7 گیگابایت + 7 گیگابایت هدیه شبانه ",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122097",
+      "cost": 204600,
+      "description": "دایمی - هفتگی - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122098",
+      "cost": 278300,
+      "description": "دایمی - هفتگی - 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "400122108",
+      "cost": 53410,
+      "description": "دایمی - ماهانه - 5 گیگابایت ترافیک بومی",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122096",
+      "cost": 139700,
+      "description": "دایمی - هفتگی - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112114",
+      "cost": 198000,
+      "description": "اعتباری - ماهانه - 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112115",
+      "cost": 262900,
+      "description": "اعتباری - ماهانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122088",
+      "cost": 68200,
+      "description": "دایمی - روزانه - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122089",
+      "cost": 91300,
+      "description": "دایمی - روزانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122090",
+      "cost": 139700,
+      "description": "دایمی - روزانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122091",
+      "cost": 48400,
+      "description": "دایمی - 3 روزه - 150 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 150
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122092",
+      "cost": 119900,
+      "description": "دایمی - 3 روزه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122093",
+      "cost": 174900,
+      "description": "دایمی - 3 روزه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112113",
+      "cost": 145200,
+      "description": "اعتباری - ماهانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122095",
+      "cost": 101200,
+      "description": "دایمی - هفتگی - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402122087",
+      "cost": 53900,
+      "description": "دایمی - روزانه - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112118",
+      "cost": 381700,
+      "description": "اعتباری - ماهانه - 7 گیگابایت +7 گیگابایت هدیه شبانه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402122086",
+      "cost": 28600,
+      "description": "دایمی - روزانه - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "402112107",
+      "cost": 278300,
+      "description": "اعتباری - هفتگی - 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112116",
+      "cost": 292600,
+      "description": "اعتباری - ماهانه - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112106",
+      "cost": 204600,
+      "description": "اعتباری - هفتگی - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112105",
+      "cost": 139700,
+      "description": "اعتباری - هفتگی - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112117",
+      "cost": 322300,
+      "description": "اعتباری - ماهانه - 5 گیگابایت + 5 گیگابایت هدیه شبانه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "402112104",
+      "cost": 101200,
+      "description": "اعتباری - هفتگی - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "400112118",
+      "cost": 53410,
+      "description": "اعتباری - ماهانه - 5 گیگابایت ترافیک بومی",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "403112037",
+      "cost": 794200,
+      "description": "اعتباری - 2 ماهه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    },
+    {
+      "type": "403122030",
+      "cost": 794200,
+      "description": "دایمی - 2 ماهه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "403122031",
+      "cost": 985600,
+      "description": "دایمی - 3 ماهه - 18 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 18
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 1
+    },
+    {
+      "type": "403112038",
+      "cost": 985600,
+      "description": "اعتباری - 3 ماهه - 18 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 18
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 0
+    }
+  ]
+}

@@ -1,0 +1,1756 @@
+{
+  "data": [
+    {
+      "type": "367",
+      "cost": 271700,
+      "description": "15 روزه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "368",
+      "cost": 191400,
+      "description": "15 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "366",
+      "cost": 149600,
+      "description": "15 روزه - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "369",
+      "cost": 117700,
+      "description": "15 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "383",
+      "cost": 1031800,
+      "description": "2 ماهه - 20 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "386",
+      "cost": 869000,
+      "description": "3 ماهه - 12 گیگابایت+300دقیقه مکالمه درون شبکه+300دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 12
+        }
+      },
+      "in_network_conversation": {
+        "_id": "6598fffdf6de9ca76327fb6b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-01-06T07:23:41.007Z",
+        "updated_at": "2024-01-06T07:23:41.007Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca01e5fb112a08078034c",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:08:46.704Z",
+        "updated_at": "2021-08-30T09:08:46.704Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "387",
+      "cost": 486200,
+      "description": "3 ماهه - 3 گیگابایت+300دقیقه مکالمه درون شبکه+300دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "in_network_conversation": {
+        "_id": "6598fffdf6de9ca76327fb6b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-01-06T07:23:41.007Z",
+        "updated_at": "2024-01-06T07:23:41.007Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca01e5fb112a08078034c",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:08:46.704Z",
+        "updated_at": "2021-08-30T09:08:46.704Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "356",
+      "cost": 85800,
+      "description": "3 روزه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 750
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "385",
+      "cost": 587400,
+      "description": "3 ماهه - 6 گیگابایت+300دقیقه مکالمه درون شبکه+300دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "in_network_conversation": {
+        "_id": "6598fffdf6de9ca76327fb6b",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2024-01-06T07:23:41.007Z",
+        "updated_at": "2024-01-06T07:23:41.007Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca01e5fb112a08078034c",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 300
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:08:46.704Z",
+        "updated_at": "2021-08-30T09:08:46.704Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "355",
+      "cost": 159500,
+      "description": "3 روزه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "354",
+      "cost": 88000,
+      "description": "3 روزه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "361",
+      "cost": 145200,
+      "description": "هفتگی - 1.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "362",
+      "cost": 176000,
+      "description": "هفتگی - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "363",
+      "cost": 206800,
+      "description": "هفتگی - 3.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "364",
+      "cost": 236500,
+      "description": "هفتگی - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "384",
+      "cost": 470800,
+      "description": "3 ماهه - 6 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "357",
+      "cost": 28600,
+      "description": "هفتگی - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "389",
+      "cost": 531300,
+      "description": "3 ماهه - 8 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 8
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "391",
+      "cost": 559900,
+      "description": "3 ماهه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "390",
+      "cost": 708400,
+      "description": "3 ماهه - 12 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 12
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "360",
+      "cost": 92400,
+      "description": "هفتگی - 550 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 550
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "388",
+      "cost": 1105500,
+      "description": "3 ماهه - 20 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "359",
+      "cost": 66000,
+      "description": "هفتگی - 300 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 300
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "358",
+      "cost": 57200,
+      "description": "هفتگی - 200 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 200
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "348",
+      "cost": 79200,
+      "description": "روزانه - 650 مگابایت+100دقیقه مکالمه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 600
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "349",
+      "cost": 80300,
+      "description": "روزانه - 750 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 700
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "350",
+      "cost": 84700,
+      "description": "روزانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "351",
+      "cost": 124300,
+      "description": "روزانه - 2.5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "352",
+      "cost": 248600,
+      "description": "روزانه - 5 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "365",
+      "cost": 946000,
+      "description": "هفتگی - 20 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "347",
+      "cost": 57200,
+      "description": "روزانه - 400 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 400
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "345",
+      "cost": 26400,
+      "description": "روزانه - 100 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 100
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "344",
+      "cost": 132000,
+      "description": "روزانه - 2 ساعته- 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "346",
+      "cost": 41800,
+      "description": "روزانه - 250 مگابایت+100دقیقه مکالمه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 250
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "353",
+      "cost": 324500,
+      "description": "روزانه - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "380",
+      "cost": 176000,
+      "description": "ماهانه - 1 گیگابایت+100دقیقه مکالمه درون شبکه+100دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca0e8ad360ca06cfe3d94",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:12:08.728Z",
+        "updated_at": "2021-08-30T09:12:08.728Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "374",
+      "cost": 249700,
+      "description": "ماهانه - 3 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "375",
+      "cost": 282700,
+      "description": "ماهانه - 4 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "376",
+      "cost": 407000,
+      "description": "ماهانه - 7 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 7
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "377",
+      "cost": 500500,
+      "description": "ماهانه - 10 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "378",
+      "cost": 1002100,
+      "description": "ماهانه - 20 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "379",
+      "cost": 3507900,
+      "description": "ماهانه - 70 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 70
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "382",
+      "cost": 375100,
+      "description": "ماهانه - 4 گیگابایت+200دقیقه مکالمه درون شبکه+200دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb57ec803f58ee6ac6114",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 200
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:52:14.709Z",
+        "updated_at": "2021-03-13T12:52:14.709Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca0f45fb112a080780350",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 200
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:12:20.434Z",
+        "updated_at": "2021-08-30T09:12:20.434Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "381",
+      "cost": 235400,
+      "description": "ماهانه - 2 گیگابایت+100دقیقه مکالمه درون شبکه+100دقیقه برون شبکه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "in_network_conversation": {
+        "_id": "604cb4b0c803f58ee6ac6111",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-03-13T12:48:48.894Z",
+        "updated_at": "2021-03-13T12:48:48.894Z",
+        "v": 0
+      },
+      "out_network_conversation": {
+        "_id": "612ca0e8ad360ca06cfe3d94",
+        "category": {
+          "type": "OUT_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": 100
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:12:08.728Z",
+        "updated_at": "2021-08-30T09:12:08.728Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "372",
+      "cost": 139700,
+      "description": "ماهانه - 1 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 1
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "373",
+      "cost": 185900,
+      "description": "ماهانه - 2 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "371",
+      "cost": 130900,
+      "description": "ماهانه - 850 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 800
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "370",
+      "cost": 77000,
+      "description": "ماهانه - 500 مگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 500
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "410",
+      "cost": 1163800,
+      "description": "6 ماهه - 24 گیگابایت (تخصیص ماهیانه 4 گیگابایت)\t",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 24
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "412",
+      "cost": 1320000,
+      "description": "6 ماهه - 20 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "413",
+      "cost": 1856800,
+      "description": "6 ماهه - 28 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 28
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "416",
+      "cost": 24420000,
+      "description": "6 ماهه - 370 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 370
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "411",
+      "cost": 1001000,
+      "description": "6 ماهه - 15 گیگابایت",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 15
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "434",
+      "cost": 1336500,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 3ماهه - 6گیگ شاتل موبایل + (مکالمه نامحدود درون شبکه) +30گیگ ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 6
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c907fad360ca06cfe3d7f",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:07.767Z",
+        "updated_at": "2021-08-30T08:02:07.767Z",
+        "v": 0
+      },
+      "in_network_conversation": {
+        "_id": "612c9490ad360ca06cfe3d83",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": -1
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:19:28.849Z",
+        "updated_at": "2021-08-30T08:19:28.849Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "436",
+      "cost": 1540000,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 3ماهه - 10 گیگابایت شاتل موبایل + 30گیگابایت ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c907fad360ca06cfe3d7f",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:07.767Z",
+        "updated_at": "2021-08-30T08:02:07.767Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "438",
+      "cost": 2011900,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 3ماهه - 17گیگ شاتل موبایل +( مکالمه نامحدود درون شبکه) + 40گیگ ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 17
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c90895fb112a08078033c",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 40
+        },
+        "status": "INACTIVE",
+        "created_at": "2021-08-30T08:02:17.493Z",
+        "updated_at": "2022-08-31T07:45:58.059Z",
+        "v": 0
+      },
+      "in_network_conversation": {
+        "_id": "612c9490ad360ca06cfe3d83",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": -1
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:19:28.849Z",
+        "updated_at": "2021-08-30T08:19:28.849Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "440",
+      "cost": 3327500,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 6ماهه - 28گیگ شاتل موبایل + (مکالمه نامحدود درون شبکه) +60گیگ ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 28
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c9093ad360ca06cfe3d80",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 60
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:27.567Z",
+        "updated_at": "2021-08-30T08:02:27.567Z",
+        "v": 0
+      },
+      "in_network_conversation": {
+        "_id": "612c9490ad360ca06cfe3d83",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": -1
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:19:28.849Z",
+        "updated_at": "2021-08-30T08:19:28.849Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "432",
+      "cost": 3712500,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 1ماهه - 50گیگابایت شاتل موبایل + 50گیگابایت ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 50
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c90b35fb112a08078033e",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 50
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:59.662Z",
+        "updated_at": "2021-08-30T08:02:59.662Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "428",
+      "cost": 825000,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 1ماهه - 4 گیگابایت شاتل موبایل + 20گیگابایت ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 4
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c90abad360ca06cfe3d81",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:51.560Z",
+        "updated_at": "2021-08-30T08:02:51.560Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "430",
+      "cost": 1402500,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 1ماهه - 10گیگابایت شاتل موبایل + 30گیگابایت ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c907fad360ca06cfe3d7f",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 30
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:07.767Z",
+        "updated_at": "2021-08-30T08:02:07.767Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "425",
+      "cost": 319000,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 7روزه - 2.5 گیگابایت شاتل موبایل +5 گیگابایت ADSL شاتل",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 2.5
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c90a25fb112a08078033d",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:02:42.591Z",
+        "updated_at": "2021-08-30T08:02:42.591Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "424",
+      "cost": 185900,
+      "description": "بسته های ترکیبی شاتل موبایل+ ADSL شاتل - 7روزه - 800مگ شاتل موبایل + (مکالمه نامحدود دورن شبکه) + 3گیگ ADSL شاتل\t",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "MB",
+          "value": 800
+        }
+      },
+      "adsl_traffic": {
+        "_id": "612c9e83ad360ca06cfe3d8c",
+        "category": {
+          "type": "ADSL_TRAFFIC",
+          "sub_type": "GB",
+          "value": 3
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T09:01:55.162Z",
+        "updated_at": "2021-08-30T09:01:55.162Z",
+        "v": 0
+      },
+      "in_network_conversation": {
+        "_id": "612c9490ad360ca06cfe3d83",
+        "category": {
+          "type": "IN_NETWORK_CONVERSATION",
+          "sub_type": "MINUTE",
+          "value": -1
+        },
+        "status": "ACTIVE",
+        "created_at": "2021-08-30T08:19:28.849Z",
+        "updated_at": "2021-08-30T08:19:28.849Z",
+        "v": 0
+      },
+      "isSpecial": false,
+      "chargeType": 7
+    },
+    {
+      "type": "422",
+      "cost": 1105500,
+      "description": "بسته های پرفروش - 20 گیگابایت - 3 ماهه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 3
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "421",
+      "cost": 1031800,
+      "description": "بسته های پرفروش - 20 گیگابایت - 2 ماهه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 2
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 20
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "420",
+      "cost": 271700,
+      "description": "بسته های پرفروش - 5 گیگابایت - 15 روزه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "DAY",
+          "value": 15
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "417",
+      "cost": 24420000,
+      "description": "بسته های پرفروش - 370 گیگ - 6 ماهه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 6
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 370
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "419",
+      "cost": 236500,
+      "description": "بسته های پرفروش - 5 گیگابایت - هفتگی",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "WEEK",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 5
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    },
+    {
+      "type": "418",
+      "cost": 500500,
+      "description": "بسته های پرفروش - 10 گیگابایت - ماهانه",
+      "duration": {
+        "category": {
+          "type": "DURATION",
+          "sub_type": "MONTH",
+          "value": 1
+        }
+      },
+      "traffic": {
+        "category": {
+          "type": "TRAFFIC",
+          "sub_type": "GB",
+          "value": 10
+        }
+      },
+      "isSpecial": false,
+      "chargeType": 5
+    }
+  ]
+}
